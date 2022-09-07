@@ -1,6 +1,6 @@
-###  Stay a while, and listen 👋
 
 <div id="header" align="center">
+  ###  Stay a while, and listen 👋
   <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="200"/>
 </div>
 
