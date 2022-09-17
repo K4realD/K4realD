@@ -1,6 +1,16 @@
+###  Stay a while, and listen 🧙‍♂️
+---
+Начинающий frontend разработчик.
+<ul>
+  <li> 🚀 Стремлюсь осваивать новые технологии и увеличить свой стек </li>
+  <li> ✍️ Стараюсь писать чистый и качественный код </li>
+  <li> 👨‍💻 С энтузиазмом подхожу к новым проектам </li>
+  <li> 🧠 Всегда открыт для критики </li>
+  <li> Для связи <a href="t.me/Limace_cerebrale"> <img src="https://shields.io/badge/Telegram-blue" alt="Telegram badge" /> </a> </li>
+</ul>
+
 
 <div id="header" align="center">
-  ###  Stay a while, and listen 👋
   <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="200"/>
 </div>
 
