@@ -6,7 +6,7 @@
   <li> ✍️ Стараюсь писать чистый и качественный код </li>
   <li> 👨‍💻 С энтузиазмом подхожу к новым проектам </li>
   <li> 🧠 Всегда открыт для критики </li>
-  <li> Для связи <a href="t.me/Limace_cerebrale"> <img src="https://shields.io/badge/Telegram-blue" alt="Telegram badge" /> </a> </li>
+  <li> Для связи <a href="t.me/@Limace_cerebrale"> <img src="https://shields.io/badge/Telegram-blue" alt="Telegram badge" /> </a> </li>
 </ul>
 
 
